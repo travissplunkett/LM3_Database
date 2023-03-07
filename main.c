@@ -2,6 +2,7 @@
 // This lab is to create a child process which executes the command given by the user.
 // Student name: Minh Nguyen
 // Date: 03/06/2023
+// Execution Instruction: please run g++ -o main main.c to compile, and execute the main.exe created in the bin folder.
 
 #include <stdio.h>
 #include <unistd.h>
